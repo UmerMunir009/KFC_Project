@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Zinger Stacker Combo",
+    "description": "A delicious combo with a Zinger burger, fries, 1 regular drink",
+    "image": "https://www.kfcpakistan.com/images/63fb28b0-9627-11ef-be4f-a734b6b6ba4f-stacker-combo-2024-10-29185539.png",
+    "price": 950,
+    "addOns": [
+              {
+                "id": 1,
+                "name": "Regular Fries",
+                "price": 240,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 2,
+                "name": "Mayo Dip",
+                "price": 50,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ddb356e0-ea4e-11ed-bcba-6f242cd5238e-mayo-2023-05-04073956.png"
+              },
+              {
+                "id": 3,
+                "name": "Dinner Roll",
+                "price": 40,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-Dinner-Roll-copy-2023-06-07091210.png"
+              },
+              {
+                "id": 4,
+                "name": "Boneless Strips (2 pcs)",
+                "price": 200,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ee40ad00-c522-11ee-aed0-3f3f2586d355-Chicken-Strips-2024-02-06190711.png"
+              },
+              {
+                "id": 5,
+                "name": "Coleslaw",
+                "price": 80,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/61ec55e0-0513-11ee-aee5-69eb5757a047-Coleslaw-2023-06-07091210.png"
+              },
+              {
+                "id": 6,
+                "name": "Large Fries",
+                "price": 440,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 7,
+                "name": "Cheese",
+                "price": 100,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/dd4a34d0-ea4e-11ed-830c-4fa21ffc6c4a-ches-2023-05-04073955.png"
+              },
+              {
+                "id": 8,
+                "name": "One Pc chicken",
+                "price": 320,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/62153aa0-0513-11ee-8eee-c7aabf77bad4-1PcChicken-2023-06-07091210.png"
+              }
+            ]
+  },
+  {
+    "title": "Zinger Got Wings",
+    "description": "2 Zinger Burgers + 1 regular drink + Wings Bucket (6 pcs)",
+    "image": "https://www.kfcpakistan.com/images/63fb28b0-9627-11ef-b420-51a55a9d1dbc-Zinger-combo-2024-10-29185539.png",
+    "price": 1150,
+    "addOns": [
+              {
+                "id": 1,
+                "name": "Regular Fries",
+                "price": 240,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 2,
+                "name": "Mayo Dip",
+                "price": 50,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ddb356e0-ea4e-11ed-bcba-6f242cd5238e-mayo-2023-05-04073956.png"
+              },
+              {
+                "id": 3,
+                "name": "Dinner Roll",
+                "price": 40,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-Dinner-Roll-copy-2023-06-07091210.png"
+              },
+              {
+                "id": 4,
+                "name": "Boneless Strips (2 pcs)",
+                "price": 200,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ee40ad00-c522-11ee-aed0-3f3f2586d355-Chicken-Strips-2024-02-06190711.png"
+              },
+              {
+                "id": 5,
+                "name": "Coleslaw",
+                "price": 80,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/61ec55e0-0513-11ee-aee5-69eb5757a047-Coleslaw-2023-06-07091210.png"
+              },
+              {
+                "id": 6,
+                "name": "Large Fries",
+                "price": 440,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 7,
+                "name": "Cheese",
+                "price": 100,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/dd4a34d0-ea4e-11ed-830c-4fa21ffc6c4a-ches-2023-05-04073955.png"
+              },
+              {
+                "id": 8,
+                "name": "One Pc chicken",
+                "price": 320,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/62153aa0-0513-11ee-8eee-c7aabf77bad4-1PcChicken-2023-06-07091210.png"
+              }
+            ]
+  },
+  {
+    "title": "Crispy Duo Box",
+    "description": "Turn up the fun with 5 pcs Hot & Crispy Chicken + 1 Large fries + 1 regular drink + + 1 regular drink",
+    "image": "https://www.kfcpakistan.com/images/63fb28b0-9627-11ef-b5b6-331c16c28159-CrispyDuoBox-2024-10-29185539.png",
+    "price": 1350,
+    "addOns": [
+              {
+                "id": 1,
+                "name": "Regular Fries",
+                "price": 240,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 2,
+                "name": "Mayo Dip",
+                "price": 50,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ddb356e0-ea4e-11ed-bcba-6f242cd5238e-mayo-2023-05-04073956.png"
+              },
+              {
+                "id": 3,
+                "name": "Dinner Roll",
+                "price": 40,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-Dinner-Roll-copy-2023-06-07091210.png"
+              },
+              {
+                "id": 4,
+                "name": "Boneless Strips (2 pcs)",
+                "price": 200,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ee40ad00-c522-11ee-aed0-3f3f2586d355-Chicken-Strips-2024-02-06190711.png"
+              },
+              {
+                "id": 5,
+                "name": "Coleslaw",
+                "price": 80,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/61ec55e0-0513-11ee-aee5-69eb5757a047-Coleslaw-2023-06-07091210.png"
+              },
+              {
+                "id": 6,
+                "name": "Large Fries",
+                "price": 440,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 7,
+                "name": "Cheese",
+                "price": 100,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/dd4a34d0-ea4e-11ed-830c-4fa21ffc6c4a-ches-2023-05-04073955.png"
+              },
+              {
+                "id": 8,
+                "name": "One Pc chicken",
+                "price": 320,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/62153aa0-0513-11ee-8eee-c7aabf77bad4-1PcChicken-2023-06-07091210.png"
+              }
+            ]
+  },
+  {
+    "title": "Family Festival 3",
+    "description": "An ultimate meal for the fam. It includes 4 Zinger burgers + 4 pieces Hot and Crispy Chicken + 2 Dinner rolls + 1.5L drink",
+    "image": "https://www.kfcpakistan.com/images/634e6df0-9627-11ef-b12f-312c6a2b6968-family-Festivle-3-2024-10-29185538.png",
+    "price": 2590,
+    "addOns": [
+              {
+                "id": 1,
+                "name": "Regular Fries",
+                "price": 240,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 2,
+                "name": "Mayo Dip",
+                "price": 50,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ddb356e0-ea4e-11ed-bcba-6f242cd5238e-mayo-2023-05-04073956.png"
+              },
+              {
+                "id": 3,
+                "name": "Dinner Roll",
+                "price": 40,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-Dinner-Roll-copy-2023-06-07091210.png"
+              },
+              {
+                "id": 4,
+                "name": "Boneless Strips (2 pcs)",
+                "price": 200,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/ee40ad00-c522-11ee-aed0-3f3f2586d355-Chicken-Strips-2024-02-06190711.png"
+              },
+              {
+                "id": 5,
+                "name": "Coleslaw",
+                "price": 80,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/61ec55e0-0513-11ee-aee5-69eb5757a047-Coleslaw-2023-06-07091210.png"
+              },
+              {
+                "id": 6,
+                "name": "Large Fries",
+                "price": 440,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-LargeFries-2023-06-07091210.png"
+              },
+              {
+                "id": 7,
+                "name": "Cheese",
+                "price": 100,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/dd4a34d0-ea4e-11ed-830c-4fa21ffc6c4a-ches-2023-05-04073955.png"
+              },
+              {
+                "id": 8,
+                "name": "One Pc chicken",
+                "price": 320,
+                "quantity": 0,
+                "image": "https://www.kfcpakistan.com/images/62153aa0-0513-11ee-8eee-c7aabf77bad4-1PcChicken-2023-06-07091210.png"
+              }
+            ]
+  }
+]

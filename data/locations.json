@@ -1,0 +1,24 @@
+ [
+    {
+      "id": 1,
+      "name": "Johar town",
+      "address": "Main Boulevard Johar town Near shoukat Khanam",
+      "distance": "0.88",
+      "hours": "12:00 PM - 10:00 PM"
+    },
+    {
+      "id": 2,
+      "name": "Emporium Mall Lahore",
+      "address": "Food Court Emporium Mall Johar Town Lahore",
+      "distance": "2.08",
+      "hours": "12:00 PM - 10:00 PM"
+    },
+    {
+      "id": 3,
+      "name": "Johar town Expo",
+      "address": "403-404 J block Main boulevard Johar town Near Expo Center Lahore",
+      "distance": "2.71",
+      "hours": "12:00 PM - 10:00 PM"
+    }
+  ]
+
